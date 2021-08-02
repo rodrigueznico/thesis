@@ -1,0 +1,24 @@
+.header {
+  height: 50px
+}
+
+.logo {
+  padding: 0 20px;
+  height: 46px;
+  background:#1890ff;
+  margin: 0px 28px 16px 0;
+  float: left;
+  -webkit-text-fill-color:white;
+  display: flex;
+  align-items: center;
+  font-size: larger;
+}
+
+.menuItem {
+  float: right;
+}
+
+.iconHeader {
+  font-size: 20px !important;
+  vertical-align: middle;
+}

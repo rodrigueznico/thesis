@@ -1,0 +1,43 @@
+export const VARIABLES = {
+  0: "vientre_servicio",
+  1: "tasa_prenez",
+  2: "has_ganaderas_afectivas",
+  3: "prod_carne_ha",
+  4: "mb_largo_plazo",
+  5: "ingreso_neto_ha",
+  6: "gastos_directos_ha",
+  7: "costos_directos_hs",
+  8: "prod_carne_racion",
+  9: "prod_carne_ev",
+  10: "carga_ev_ha",
+  11: "precio_terneros_machos",
+  12: "edad_servicio_vaquillonas",
+  13: "prom_diario_req",
+  14: "prom_diario_oferta",
+  15: "prom_diario_balance_preliminar",
+  16: "receptividad_racion_ha",
+  17: "dist_prenez_vacas",
+  18: "dist_prenez_vaquillonas",
+  19: "cant_vacas",
+  20: "cant_vaquillonas",
+  21: "modelName"
+}
+
+export const MESSAGE = {
+  ADD_MODEL_SUCCESS: "Modelo agregado correctamente.",
+  ADD_MODEL_FAIL: "Ocurrió un error al cargar el modelo ",
+  ADD_USER_SUCCESS: "Usuario agregado correctamente.",
+  ADD_USER_FAIL: "Ocurrió un error al registrar el usuario.",
+  LOGIN_ERROR: "Usuario y/o contraseña inválido.",
+  FETCH_MODELS_ERROR: "Ocurrió un error al cargar sus modelos.",
+  FETCH_USERS_ERROR: "Ocurrió un error al cargar los usuarios.",
+  DELETE_MODEL_SUCCESS: "Modelo eliminado correctamente.",
+  DELETE_MODEL_FAIL: "Ocurrió un error al eliminar el modelo.",
+  DELETE_USER_SUCCESS: "Usuario eliminado correctamente.",
+  DELETE_USER_FAIL: "Ocurrió un error al eliminar el usuario.",
+  UPDATE_USER_SUCCESS: "Usuario moficiado correctamente.",
+  UPDATE_USER_FAIL: "Ocurrió un error al modificar el usuario.",
+  CHANGE_PASSWORD_SUCCESSS: "Cambio de contraseña correcto.",
+  CHANGE_PASSWORD_FAIL: "Error al cambiar la contraseña.",
+  UNAUTHORIZED_ERROR: "Su sesión ha expirado. Por favor ingrese nuevamente."
+}

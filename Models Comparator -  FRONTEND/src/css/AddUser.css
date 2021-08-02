@@ -1,0 +1,19 @@
+.paragraphAddUser {
+    text-align: center; 
+    font-size: 32px; 
+    margin-bottom: 2rem;
+}
+
+.buttonAddUser {
+    width: 40%
+}
+
+.formAddUser {
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+.formItemAddUser {
+    width: 75%;
+    text-align: center;
+}

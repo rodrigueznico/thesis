@@ -1,0 +1,32 @@
+.iconUsers {
+    font-size: 20px !important;
+}
+
+.iconUsers-2 {
+    font-size: 20px !important; 
+    color: #52c41a !important;
+}
+
+.divUsers {
+    padding: 8px
+}
+
+.inputUser {
+    width: 188px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.buttonUsers {
+    width: 90px;
+    margin-right: 8px;
+}
+
+.buttonUsers-2 {
+    width: 90px;
+}
+
+.tableUsers {
+    width: 100%;
+    clear: both;
+}

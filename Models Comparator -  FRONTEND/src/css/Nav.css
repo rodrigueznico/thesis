@@ -1,0 +1,17 @@
+.siderNav {
+    background: rgb(255, 255, 255) !important;
+    flex: 0 0 230px !important;
+    max-width: 230px !important;
+    min-width: 230px !important;
+    width: 230px !important;
+}
+
+.menuNav {
+    height: 100%;
+    border-right: 0px !important;
+}
+
+.iconNav{
+    font-size: 18px !important;
+    vertical-align: middle !important;
+}

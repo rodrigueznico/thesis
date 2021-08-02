@@ -1,0 +1,15 @@
+.contentAddModel {
+    place-content: space-around;
+    padding: 50px;
+    margin: 12px 12px 12px 12px;
+    display: grid;
+}
+
+.backAddModel {
+    background-color: aliceblue;
+}
+
+.buttonAddModel {
+    margin-top: 16px;
+}
+

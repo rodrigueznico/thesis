@@ -1,0 +1,16 @@
+.iconModels {
+    font-size: 20px;
+}
+
+.iconPopconfirmModels {
+    color: red !important;
+}
+
+.divModels {
+    display: flex;
+    justify-content: center;
+}
+
+.tableModels {
+    width:70%
+}
